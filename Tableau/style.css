@@ -18,6 +18,10 @@ p {
   font-size: 1em;
 } */
 
+body {
+  background-color: #0d1117;
+}
+
 @charset "UTF-8";
 
 /* Import ET Book styles
